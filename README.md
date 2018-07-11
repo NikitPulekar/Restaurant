@@ -1,2 +1,2 @@
-# restaurant
-restaurant menu
+# Restaurant
+my test project
